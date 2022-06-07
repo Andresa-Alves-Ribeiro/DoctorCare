@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-DoctorCare é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micros, pequenas e médias empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços e Footer. Foi desenvolvido com base no NLW Return 2022 da Rocketseat.
+DoctorCare é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micros, pequenas e médias empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços e Footer. Projeto desenvolvido com base no NLW Return 2022 da Rocketseat.
 
 ## 🔖 Layout
 
